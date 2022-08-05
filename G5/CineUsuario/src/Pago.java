@@ -671,7 +671,8 @@ public class Pago extends javax.swing.JFrame {
         i.setVisible(true);
         i.jLabel23.setText(lom);
         i.jLabel24.setText(lol);
-        i.jLabel25.setText(lo   );
+        i.jLabel25.setText(lo);
+           
     }//GEN-LAST:event_jButton1ActionPerformed
 
     /**
