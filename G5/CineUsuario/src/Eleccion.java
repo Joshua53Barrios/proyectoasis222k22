@@ -215,7 +215,7 @@ public class Eleccion extends javax.swing.JFrame {
                 ver1ActionPerformed(evt);
             }
         });
-        jPanel1.add(ver1, new org.netbeans.lib.awtextra.AbsoluteConstraints(260, 190, 80, 30));
+        jPanel1.add(ver1, new org.netbeans.lib.awtextra.AbsoluteConstraints(250, 190, 80, 30));
 
         jLabel12.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagenes/cine.jpg"))); // NOI18N
         jPanel1.add(jLabel12, new org.netbeans.lib.awtextra.AbsoluteConstraints(550, 0, -1, -1));
